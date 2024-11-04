@@ -4,4 +4,5 @@ get started using:
 ```python
 python run_training.py
 ```
-pretrained checkpoint: [download checkpoint](https://cloud.tsinghua.edu.cn/d/63e2721029784e1c9bfc/)
+if you only need the encoder, download this checkpoint: [download encoder checkpoint](https://cloud.tsinghua.edu.cn/f/6978fa18c4584e6dae06/?dl=1)<br>
+if you are going on a pretraining task, download this checkpoint:[download pretraining checkpoint](https://cloud.tsinghua.edu.cn/f/48e4aaba18884d6fb221/?dl=1)
